@@ -1,5 +1,6 @@
-table {
+html {
   border: 1px solid #ccc;
+  font-family: 'Merriweather, serif';
 }
 
 th, td {
@@ -7,5 +8,5 @@ th, td {
 }
 
 td {
-  height: 7em;
+  height: 10em;
 }
