@@ -1,0 +1,11 @@
+table {
+  border: 1px solid #ccc;
+}
+
+th, td {
+  border: 1px solid #ccc;
+}
+
+td {
+  height: 7em;
+}
