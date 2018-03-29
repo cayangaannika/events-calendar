@@ -1,6 +1,6 @@
 html {
   border: 1px solid #ccc;
-  font-family: 'Merriweather, serif';
+  font-family: "Merriweather", serif;
 }
 
 th, td {
@@ -9,4 +9,8 @@ th, td {
 
 td {
   height: 10em;
+}
+
+div {
+  padding: 0;
 }
