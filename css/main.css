@@ -11,6 +11,46 @@ td {
   height: 10em;
 }
 
-div {
-  padding: 0;
+.three {
+  background-color: #f2f2f2;
+  color: #333;
+  border-radius: 6px;
+}
+
+.remember {
+  background-color: #f2bcbc;
+  color: #991919;
+  border-radius: 6px;
+}
+
+.kosmos {
+  background-color: #f2f2f2;
+  color: #333;
+  border-radius: 6px;
+}
+
+.surtsey {
+  background-color: #d1e0bf;
+  color: #51603f;
+  border-radius: 6px;
+}
+
+.robert {
+  background-color:
+}
+
+.twentyone {
+  background-color:
+}
+
+.twentytwo {
+  background-color:
+}
+
+.twentythree {
+  background-color:
+}
+
+.twentysix {
+  background-color:
 }
