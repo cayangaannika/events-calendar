@@ -36,21 +36,31 @@ td {
 }
 
 .robert {
-  background-color:
+  background-color: #d1e0bf;
+  color: #51603f;
+  border-radius: 6px;
 }
 
 .twentyone {
-  background-color:
+  background-color: #f2f2f2;
+  color: #333;
+  border-radius: 6px;
 }
 
 .twentytwo {
-  background-color:
+  background-color:#d2d6f0;
+  color: #38448e;
+  border-radius: 6px;
 }
 
 .twentythree {
-  background-color:
+  background-color:#d2d6f0;
+  color: #38448e;
+  border-radius: 6px;
 }
 
 .twentysix {
-  background-color:
+  background-color: #f2f2f2;
+  color: #333;
+  border-radius: 6px;
 }
